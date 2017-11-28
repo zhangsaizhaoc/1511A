@@ -8,3 +8,8 @@
 'use strict';
 
 console.log('1');
+var sq=document.getElementsByClassName("dingwei")[0];
+console.log(sq);
+sq.onclick=function(){
+	document.getElementsByClassName('wrapper')[0].style.height="22px";
+}
