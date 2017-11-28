@@ -29,10 +29,10 @@ body,html{ height:100%;width:100%;}
         .nav ul li a:hover,#bb{  background:#3B55A9; color:#fff;  }
         .nav ul li a b{ width: 7px; height: 4px; display: inline-block; background:url(../images/icon6.jpg) no-repeat;position: relative; left: 4px; top: -3px;}
             .nav ul li i{  display:block; width:34px; height: 16px; padding:5px 4px; background:url(../images/spristes.png) no-repeat -14px -4px;}
-            .nav ul li:nth-child(2) i{  width:42px; height: 16px; padding:5px 3px; background-position: -89px -4px;}
-            .nav ul li:nth-child(3) i{   width:51px; height: 16px; padding:5px 3px; background-position: -165px -4px;}
+            .nav ul li:nth-child(2) i{ width:42px; height: 16px; padding:5px 3px; background-position: -89px -4px;}
+            .nav ul li:nth-child(3) i{ width:51px; height: 16px; padding:5px 3px; background-position: -165px -4px;}
             .nav ul li:nth-child(4) i{ width:55px; height: 16px; padding:5px 3px; background-position: -242px -4px;}
-            .nav ul li:nth-child(5) i{   width:59px; height: 16px; padding:5px 3px; background-position: -0px -53px;}
+            .nav ul li:nth-child(5) i{ width:59px; height: 16px; padding:5px 3px; background-position: -0px -53px;}
             .nav ul li:nth-child(6) i{ width:64px; height: 16px; padding:5px 3px; background-position: -78px -53px;}
             .nav ul li:nth-child(7) i{ width:59px; height: 22px; padding:2px 3px; background-position: -163px -49px;}
             .nav ul li:nth-child(8) i{ width:59px; height: 20px; padding:3px 3px; background-position: -240px -49px;}
